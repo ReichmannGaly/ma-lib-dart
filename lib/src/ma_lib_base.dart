@@ -7,3 +7,7 @@ void writeLine(Object? obj) {
 void write(Object? obj) {
   stdout.write(obj);
 }
+
+void coucou() {
+  print("Coucou");
+}
